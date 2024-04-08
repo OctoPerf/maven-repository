@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.octoperf</groupId>
+  <artifactId>task</artifactId>
+  <versioning>
+    <release>2.4.0</release>
+    <versions>
+      <version>2.4.0</version>
+    </versions>
+    <lastUpdated>20240408135932</lastUpdated>
+  </versioning>
+</metadata>

@@ -22,5 +22,10 @@
       <artifactId>tools-jackson-mapper</artifactId>
       <version>${project.version}</version>
     </dependency>
+    <dependency>
+      <groupId>com.octoperf</groupId>
+      <artifactId>task-entity</artifactId>
+      <version>${project.version}</version>
+    </dependency>
   </dependencies>
 </project>
