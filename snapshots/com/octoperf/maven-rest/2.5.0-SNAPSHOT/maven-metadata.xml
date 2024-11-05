@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.octoperf</groupId>
+  <artifactId>maven-rest</artifactId>
+  <versioning>
+    <lastUpdated>20241105142915</lastUpdated>
+    <snapshot>
+      <timestamp>20241105.142915</timestamp>
+      <buildNumber>2</buildNumber>
+    </snapshot>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.5.0-20241105.142915-2</value>
+        <updated>20241105142915</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.5.0-20241105.142915-2</value>
+        <updated>20241105142915</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>tests</classifier>
+        <extension>jar</extension>
+        <value>2.5.0-20241105.142915-2</value>
+        <updated>20241105142915</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+  <version>2.5.0-SNAPSHOT</version>
+</metadata>
