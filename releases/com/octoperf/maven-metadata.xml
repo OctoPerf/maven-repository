@@ -6,5 +6,10 @@
       <prefix>octoperf</prefix>
       <artifactId>octoperf-maven-plugin</artifactId>
     </plugin>
+    <plugin>
+      <name>bzm-to-octoperf-maven-plugin</name>
+      <prefix>bzm-to-octoperf</prefix>
+      <artifactId>bzm-to-octoperf-maven-plugin</artifactId>
+    </plugin>
   </plugins>
 </metadata>

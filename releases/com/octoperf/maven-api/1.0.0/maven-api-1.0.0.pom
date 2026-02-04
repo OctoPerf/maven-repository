@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <parent>
     <artifactId>maven</artifactId>
     <groupId>com.octoperf</groupId>
@@ -14,17 +12,32 @@
   <dependencies>
     <dependency>
       <groupId>com.octoperf</groupId>
-      <artifactId>analysis-entity</artifactId>
+      <artifactId>octoperf-design-entity</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>com.octoperf</groupId>
-      <artifactId>design-entity</artifactId>
+      <artifactId>octoperf-workspace-entity</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>com.octoperf</groupId>
-      <artifactId>runtime-entity</artifactId>
+      <artifactId>blazemeter-workspace-entity</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.octoperf</groupId>
+      <artifactId>blazemeter-project-entity</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.octoperf</groupId>
+      <artifactId>blazemeter-test-entity</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>com.octoperf</groupId>
+      <artifactId>blazemeter-file-entity</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
